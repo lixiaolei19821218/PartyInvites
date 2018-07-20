@@ -7039,7 +7039,7 @@
       ]
     },
     "Microsoft.Extensions.PlatformAbstractions/1.1.0": {
-      "sha512": "H6ZsQzxYw/6k2DfEQRXdC+vQ6obd6Uba3uGJrnJ2vG4PRXjQZ7seB13JdCfE72abp8E6Fk3gGgDzfJiLZi5ZpQ==",
+      "sha512": "UMlN++q5qqzQ2HH+uOrKxN5fmBXMQDhrYkSaPJxhmyzfJaFPirrVr1raim/Ocq1psAZoB9+7JSAf0GDAX35wUg==",
       "type": "package",
       "path": "microsoft.extensions.platformabstractions/1.1.0",
       "files": [
@@ -13251,23 +13251,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\潇磊\\.nuget\\packages\\": {},
+    "C:\\Users\\arthur.li\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\潇磊\\Documents\\GitHub\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+      "projectUniqueName": "C:\\Users\\arthur.li\\Source\\repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
       "projectName": "PartyInvites",
-      "projectPath": "C:\\Users\\潇磊\\Documents\\GitHub\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
-      "packagesPath": "C:\\Users\\潇磊\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\潇磊\\Documents\\GitHub\\PartyInvites\\PartyInvites\\obj\\",
+      "projectPath": "C:\\Users\\arthur.li\\Source\\repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+      "packagesPath": "C:\\Users\\arthur.li\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arthur.li\\Source\\repos\\PartyInvites\\PartyInvites\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\潇磊\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\arthur.li\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
